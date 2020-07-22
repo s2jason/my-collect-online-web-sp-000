@@ -10,3 +10,5 @@ def my_collect(array)
   end
   collection
 end
+
+#ruby lib/my_collect.rb
